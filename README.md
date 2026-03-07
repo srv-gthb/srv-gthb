@@ -1,16 +1,24 @@
-## Hi there 👋
+# Hi, I'm Wifrea 👋
 
-<!--
-**srv-gthb/srv-gthb** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🌱 I'm a student currently in secondary school.
+🐍 Beginner coder currently learning **Python**.
+🐧 Enthusiast of the **Linux** ecosystem.
+🎮 In my free time, I love playing **Minecraft**.
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 🛠 Languages & Tools
+![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
+![Bash](https://img.shields.io/badge/shell_script-%23121011.svg?style=for-the-badge&logo=gnu-bash&logoColor=white)
+
+---
+
+### 🎮 Games
+* **Minecraft** (Survival / Creative / Technical)
+
+---
+
+### 📬 How to reach me
+* **Discord:** [0_iroy]
+* **GitHub:** You're already here!
