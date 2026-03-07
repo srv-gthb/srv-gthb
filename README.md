@@ -1,8 +1,11 @@
 # Hi, I'm Wifrea 👋
 
 🌱 I'm a student currently in secondary school.
+
 🐍 Beginner coder currently learning **Python**.
+
 🐧 Enthusiast of the **Linux** ecosystem.
+
 🎮 In my free time, I love playing **Minecraft**.
 
 ---
