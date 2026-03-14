@@ -2,7 +2,7 @@
 
 🌱 I'm a student currently in secondary school.
 
-🐍 Beginner coder currently learning **Python**, and **HTML**.
+🐍 Beginner coder currently learning **Python**, **HTML**, and **css**.
 
 🐧 Enthusiast of the **Linux** ecosystem.
 
@@ -12,11 +12,10 @@
 
 ---
 
-### 🛠 Languages & Tools
-![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
-![HTML](./Assets/Svg/html.svg) width=200
-![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
-![Bash](https://img.shields.io/badge/shell_script-%23121011.svg?style=for-the-badge&logo=gnu-bash&logoColor=white)
+### 🛠 Languages
+![Python]()
+![HTML](./Assets/Svg/html.svg)
+![css](./Assets/Svg/css.svg)
 
 ---
 
