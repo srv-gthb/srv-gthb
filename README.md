@@ -13,7 +13,7 @@
 ---
 
 ### 🛠 Languages
-![Python]()
+![Python](./Assets/Svg/python.svg)
 ![HTML](./Assets/Svg/html.svg)
 ![css](./Assets/Svg/css.svg)
 
