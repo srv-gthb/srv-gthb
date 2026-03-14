@@ -25,6 +25,6 @@
 ---
 
 ### 📬 How to reach me
-* **Discord:** [0_iroy]
+* **Discord:** @0_iroy
 * **GitHub:** You're already here!
 * **My Organization:** @Loom-Apps
