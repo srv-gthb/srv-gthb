@@ -2,7 +2,7 @@
 
 🌱 I'm a student currently in secondary school.
 
-🐍 Beginner coder currently learning **Python**.
+🐍 Beginner coder currently learning **Python**, and **HTML**.
 
 🐧 Enthusiast of the **Linux** ecosystem.
 
