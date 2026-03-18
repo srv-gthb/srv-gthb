@@ -25,4 +25,4 @@
 ---
 
 ### 📬 How to reach me
-* **https://Portfolio.celestial.qzz.io/pages/contact.html**
+* **contact.celestial.qzz.io**
