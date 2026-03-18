@@ -25,6 +25,4 @@
 ---
 
 ### 📬 How to reach me
-* **Discord:** @0_iroy
-* **GitHub:** You're already here!
-* **My Organization:** @Loom-Apps
+* **https://Portfolio.celestial.qzz.io/pages/contact.html**
