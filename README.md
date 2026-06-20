@@ -1,14 +1,12 @@
 # Hi, I'm Wifrea 👋
 
- I'm a student currently in secondary school.
-
- Beginner coder currently learning **Python**, **HTML**, and **css**.
+ Currently learning **Python**, **HTML**, **css**, **Java** and, **JS**.
 
  Enthusiast of the **Linux** ecosystem.
 
  [My Personality Type](https://www.16personalities.com/profiles/c5217bf334a84): ENTP-T
 
- In my free time, I love playing **Minecraft**.
+ In my free time, I playing **Minecraft**.
 
 ---
 
