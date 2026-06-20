@@ -16,6 +16,8 @@
 ![Python](./Assets/Svg/python.jpeg)
 ![HTML](./Assets/Svg/html.svg)
 ![css](./Assets/Svg/css.svg)
+![Java](./Assets/Svg/java.svg)
+![JS](./Assets/Svg/js.svg)
 
 ---
 
